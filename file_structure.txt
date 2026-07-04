@@ -1,0 +1,23 @@
+Fraud-Detection/
+│
+├── app.py
+│
+├── src/
+│   ├── preprocess.py
+│   ├── model.py
+│   ├── explain.py
+│   ├── rag.py              <-- NEW
+│   ├── agent.py            <-- NEW
+│   ├── vectorstore.py      <-- NEW
+│   └── utils.py
+│
+├── knowledge_base/
+│   ├── visa_rules.pdf
+│   ├── mastercard.pdf
+│   ├── rbi_guidelines.pdf
+│   ├── fraud_patterns.pdf
+│   └── pci_dss.pdf
+│
+├── chroma_db/
+│
+└── requirements.txt
