@@ -17,12 +17,12 @@ Traditional fraud detection models often provide only a prediction (Fraud/Non-Fr
 
   * IP Geolocation API
   * Currency Exchange API
-* 🤖 Detect fraudulent transactions using a **Random Forest Classifier**
-* 💡 Explain individual predictions using **LIME (Local Interpretable Model-Agnostic Explanations)**
-* 📚 Retrieve relevant fraud guidelines using **RAG (Retrieval-Augmented Generation)**
-* 🧠 Generate AI-powered fraud investigation reports using **Gemini API**
-* 💬 Interactive Fraud Investigation Assistant built with **LangChain**
-* 📊 User-friendly interface built with **Streamlit**
+*  Detect fraudulent transactions using a **Random Forest Classifier**
+*  Explain individual predictions using **LIME (Local Interpretable Model-Agnostic Explanations)**
+*  Retrieve relevant fraud guidelines using **RAG (Retrieval-Augmented Generation)**
+*  Generate AI-powered fraud investigation reports using **Gemini API**
+*  Interactive Fraud Investigation Assistant built with **LangChain**
+*  User-friendly interface built with **Streamlit**
 
 ---
 
