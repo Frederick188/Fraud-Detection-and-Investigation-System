@@ -277,7 +277,6 @@ streamlit run app.py
 
 **Udit Ray**
 
-B.Tech – Computer Science and Business Systems
 
 ---
 
