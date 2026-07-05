@@ -1,6 +1,6 @@
-# 🛡️ AI-Powered Financial Fraud Detection & Investigation System
+# 🛡️ Fraud Detection & Investigation System
 
-An end-to-end AI-powered financial fraud detection system that combines **Machine Learning**, **Explainable AI (LIME)**, **Retrieval-Augmented Generation (RAG)**, and **Large Language Models (Gemini)** to detect fraudulent transactions and generate human-readable investigation reports.
+An end-to-end financial fraud detection system that combines **Machine Learning**, **Explainable AI (LIME)**, **Retrieval-Augmented Generation (RAG)**, and **Large Language Models (Gemini)** to detect fraudulent transactions and generate human-readable investigation reports.
 
 ---
 
