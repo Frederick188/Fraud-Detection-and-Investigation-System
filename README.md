@@ -1,16 +1,16 @@
-# 🛡️ Fraud Detection & Investigation System
+# Fraud Detection & Investigation System
 
 An end-to-end financial fraud detection system that combines **Machine Learning**, **Explainable AI (LIME)**, **Retrieval-Augmented Generation (RAG)**, and **Large Language Models (Gemini)** to detect fraudulent transactions and generate human-readable investigation reports.
 
 ---
 
-## 📌 Overview
+##  Overview
 
 Traditional fraud detection models often provide only a prediction (Fraud/Non-Fraud) without explaining the reasoning behind it. This project enhances transparency by integrating Explainable AI and Retrieval-Augmented Generation to produce professional fraud investigation reports grounded in both model predictions and financial regulations.
 
 ---
 
-## 🚀 Features
+## Features
 
 * 📂 Upload financial transaction datasets (CSV)
 * 🌐 Enrich transactions using:
@@ -26,7 +26,7 @@ Traditional fraud detection models often provide only a prediction (Fraud/Non-Fr
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 ```text
                     User Uploads CSV
@@ -59,7 +59,7 @@ Traditional fraud detection models often provide only a prediction (Fraud/Non-Fr
 
 ---
 
-## 🧠 Technologies Used
+## Technologies Used
 
 ### Programming Language
 
@@ -127,7 +127,7 @@ Financial-Fraud-Detection/
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 ### Clone the repository
 
@@ -164,7 +164,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🔑 Environment Variables
+##  Environment Variables
 
 Create a `.env` file in the project root.
 
@@ -178,7 +178,7 @@ CURRENCY_API_KEY=YOUR_CURRENCYFREAKS_API_KEY
 
 ---
 
-## ▶️ Build Vector Database
+## Build Vector Database
 
 Before running the application, build the Chroma vector database.
 
@@ -188,7 +188,7 @@ python build_db.py
 
 ---
 
-## ▶️ Run the Application
+## Run the Application
 
 ```bash
 streamlit run app.py
@@ -196,7 +196,7 @@ streamlit run app.py
 
 ---
 
-## 🔄 Workflow
+## Workflow
 
 1. Upload transaction dataset.
 2. Select transaction range.
@@ -208,7 +208,7 @@ streamlit run app.py
 
 ---
 
-## 💬 Example Questions
+## Example Questions
 
 * Why was this transaction classified as fraud?
 * Explain the LIME prediction.
@@ -220,7 +220,7 @@ streamlit run app.py
 
 ---
 
-## 📈 Key Components
+## Key Components
 
 ### Machine Learning
 
@@ -246,7 +246,7 @@ streamlit run app.py
 
 ---
 
-## 🎯 Future Improvements
+## Future Improvements
 
 * PDF investigation report generation
 * User authentication
@@ -259,7 +259,7 @@ streamlit run app.py
 
 ---
 
-## 📚 Learning Outcomes
+## Learning Outcomes
 
 * Machine Learning
 * Explainable AI (LIME)
@@ -273,13 +273,13 @@ streamlit run app.py
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Udit Ray**
 
 
 ---
 
-## 📄 License
+## License
 
 This project is intended for educational and portfolio purposes.
