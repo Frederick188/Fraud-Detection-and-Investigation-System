@@ -12,8 +12,8 @@ Traditional fraud detection models often provide only a prediction (Fraud/Non-Fr
 
 ## Features
 
-* 📂 Upload financial transaction datasets (CSV)
-* 🌐 Enrich transactions using:
+* Upload financial transaction datasets (CSV)
+* Enrich transactions using:
 
   * IP Geolocation API
   * Currency Exchange API
